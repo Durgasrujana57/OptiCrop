@@ -1,9 +1,3 @@
-
----
-
-#### File: `03_Dataset/Dataset_Description.md`
-
-```markdown
 # Dataset Description - Crop Recommendation Dataset
 
 ## Overview
@@ -67,6 +61,7 @@ The Crop Recommendation dataset is designed to help farmers and agricultural res
 
 ## Crop List
 The dataset contains the following 22 crops:
+
 1. Apple
 2. Banana
 3. Barley
@@ -93,6 +88,7 @@ The dataset contains the following 22 crops:
 ## Statistical Summary
 
 ### Feature Statistics
+
 | Feature | Mean | Std | Min | 25% | 50% | 75% | Max |
 |---------|------|-----|-----|-----|-----|-----|-----|
 | N | 50.55 | 36.92 | 0 | 21 | 43 | 80 | 140 |
@@ -115,6 +111,3 @@ The dataset contains the following 22 crops:
 3. Policy making for agriculture
 4. Smart farming systems
 5. Yield prediction systems
-
-## Author
-Durga Srujana Chintakula
